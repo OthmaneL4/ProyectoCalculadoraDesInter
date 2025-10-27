@@ -103,10 +103,6 @@ Una vez obtenida la operación, la aplicación aplica una **regla especial**: to
 
 > **Enlace de Google Drive (acceso público):** [(https://drive.google.com/drive/folders/11OG4unJYYCWcr2Gbbo15S4MuCoAwicf4?usp=sharing)](https://drive.google.com/drive/folders/11OG4unJYYCWcr2Gbbo15S4MuCoAwicf4?usp=sharing)
 
-Para hacerlo público:
-1. Sube el vídeo a **Google Drive**.
-2. Clic derecho → **Compartir** → “Cualquier usuario con el enlace” → “Lector”.
-3. Copia el enlace y pégalo aquí.
 
 ---
 
@@ -119,5 +115,5 @@ Además de su carácter divertido, esta aplicación demuestra una implementació
 
 ---
 
-**Autor:** Tu nombre completo  
-**Licencia:** MIT (o la que prefieras)
+**Autor:** Othmane Laghouiyel Siyouri 
+
